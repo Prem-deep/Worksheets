@@ -1,0 +1,35 @@
+Machine learning
+1-A
+2-C
+3-c
+4-b
+5-A
+6-b
+7-c
+8-b,c
+9-a,d
+10-a,d
+
+11-
+IQR tells how spread out the middle values are it can also be used to tell when some of the other values are too far from the central value.These too far away points are called outliers,because they lie outside the range in which we expect them.
+
+12-
+they are both ensemble techniques,Bagging takes bootstrap samples of the data set and easch samples trains a weak learner wile boosting uses all data to train each learner.
+
+13-
+Adjusted R square calculate R square from only those variables whose addition in the model which are significant.
+
+14-
+NORMALISATION
+It is used when features are of different scales.
+affected by outliers
+Scales values between [0, 1] or [-1, 1].
+
+STANDARDISATION
+used when we want to ensure zero mean and unit standard deviation.
+much less affected by outliers
+not bounded to a certain range
+
+15-
+It is a technique in which we train our model using the subset of the data-set and then assess using the complementary subset of the data-set.
+main advantage is that it Reduces Overfitting but it increased the training time drastically as we have to train the model on multiple training sets
