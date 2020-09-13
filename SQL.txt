@@ -1,0 +1,37 @@
+Sql
+1-a,d
+2-A,B
+3-B
+4-B
+5-A
+6-C
+7-B
+8-B
+9-B
+10-C
+
+11
+It centralises and strengthen large amount of data from multiple sources. it allow organizations to derive valuable business insights from their data to improve decision-making.
+12-
+OLAP
+analyze data stored in a database
+Large volume of data	
+creates a single platform for all type of business analysis needs
+
+OLTP
+supports transaction-oriented applications in a 3-tier architecture
+Large number of short online transaction
+useful to administer day to day transactions of an organization
+
+13-
+Subject-oriented. They can analyze data about a particular subject or functional area.
+Integrated.It create consistency among different data types from different sources.
+Nonvolatile. Once data is stored, it’s stable and doesn’t change.
+Time-variant.It analysis looks at change over time.
+
+14- star schema
+
+It is a relational schema, where a relational schema whose design represents a multidimensional data model.It is explicit data warehouse schema.It is known as star schema because the entity-relationship diagram of this schemas imitates a star, with points, branched from a central table. The center of the schema consists of a large fact table, and the points of the star are the dimension tables.
+
+15-
+Set language is a very high level programming language, it is based on theory of set, it provide two basic aggregate data type sets and tuples.
