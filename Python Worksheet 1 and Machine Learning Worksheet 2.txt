@@ -1,0 +1,38 @@
+Python
+1-c
+2-B
+3-c
+4-a
+5-6
+6-d
+7-a
+8-c
+9-a,c
+10-a,b
+
+
+Machine learning
+
+1-B
+2-B
+3-C
+4-
+5-b
+6-a,d
+7-c,d
+8-
+9-b,c
+10-
+11
+Lasso is a modification of linear regression, where the model is penalized for the sum of absolute values of the weights.
+Ridge takes a step further and penalizes the model for the sum of squared value of the weights. Thus, the weights not only tend to have smaller absolute values and more evenly distributed, but also tend to be close to zeros. 
+12-
+Variance inflation factor (VIF) is a measure of the amount of multicollinearity in a set of multiple regression variables. Mathematically, the VIF for a regression model variable is equal to the ratio of the overall model variance to the variance of a model that includes only that single independent variable. This ratio is calculated for each independent variable. A high VIF indicates that the associated independent variable is highly collinear with the other variables in the model.
+13-
+Real world dataset contains features that highly vary in magnitudes, units, and range. Normalisation should be performed when the scale of a feature is irrelevant or misleading and not should Normalise when the scale is meaningful.
+The algorithms which use Euclidean Distance measure are sensitive to Magnitudes. Here feature scaling helps to weigh all the features equally.
+If a feature in the dataset is big in scale compared to others then in algorithms where Euclidean distance is measured this big scaled feature becomes dominating and needs to be normalized.
+14-Goodness of fitmeasures for linear regression are attempts to understand how well a model fits a given set of data.
+Sample size
+outlier detection
+
